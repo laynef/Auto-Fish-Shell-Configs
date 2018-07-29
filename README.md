@@ -12,7 +12,7 @@ git init
 git remote add origin <YOUR-GITHUB-LINK>
 cp ./../temp/save.sh ~/.config/save.sh
 bash save.sh
-git push origin 
+git push --set-upstream origin master
 ```
 
 Make your first git commit and push it up to your github repo
