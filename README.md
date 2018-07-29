@@ -8,6 +8,8 @@ https://github.com/oh-my-fish/oh-my-fish
 
 ## Installation
 
+Once Fish shell and Oh My Fish is installed.
+If your configuration is in your '~/.config' folder add this bash script
 Store your fish configuration on your own GitHub repo
 
 ```
