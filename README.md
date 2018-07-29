@@ -1,5 +1,11 @@
 # Auto Fish Config Cloud Storage
 
+## Fish Shell
+https://github.com/fish-shell/fish-shell
+
+## Oh my Fish
+https://github.com/oh-my-fish/oh-my-fish
+
 ## Installation
 
 Store your fish configuration on your own GitHub repo
